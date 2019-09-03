@@ -1,0 +1,43 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionDate" : "09-22-2018",
+    "correspondenceServiceSessionReportType" : "correspondenceServiceSessionReportType",
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics",
+    "correspondenceServiceSessionReport" : {}
+  },
+  "correspondenceOperatingSessionInstanceAnalysis" : {
+    "correspondenceOperatingSessionInstanceAnalysisReportType" : "correspondenceOperatingSessionInstanceAnalysisReportType",
+    "correspondenceOperatingSessionInstanceAnalysisData" : "correspondenceOperatingSessionInstanceAnalysisData",
+    "correspondenceOperatingSessionInstanceAnalysisReport" : {}
+  },
+  "correspondenceOperatingSessionRetrieveActionTaskReference" : "COSRATR799351",
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "employeeBusinessUnitReference" : "705330",
+      "correspondenceTemplateReference" : "746970",
+      "correspondenceAddressee" : "correspondenceAddressee",
+      "channelAccessPreferenceReference" : "754174",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "channelAccessChannelDeviceTypePreference" : "765891"
+      },
+      "customerReference" : "717421",
+      "correspondenceMediaChannel" : "correspondenceMediaChannel",
+      "correspondenceContent" : "correspondenceContent",
+      "correspondenceType" : "correspondenceType",
+      "correspondenceTemplateRecord" : {},
+      "productServiceType" : "productServiceType"
+    },
+    "correspondenceSourceReference" : "725924"
+  },
+  "correspondenceOperatingSessionRetrieveActionResponse" : "correspondenceOperatingSessionRetrieveActionResponse",
+  "correspondenceOperatingSessionRetrieveActionTaskRecord" : {},
+  "correspondenceOperatingSessionInstanceReportRecord" : {
+    "correspondenceOperatingSessionInstanceReport" : {},
+    "correspondenceOperatingSessionInstanceReportType" : "correspondenceOperatingSessionInstanceReportType",
+    "correspondenceOperatingSessionInstanceReportData" : "correspondenceOperatingSessionInstanceReportData"
+  }
+}

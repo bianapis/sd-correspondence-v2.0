@@ -1,0 +1,30 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "employeeBusinessUnitReference" : "799926",
+      "correspondenceTemplateReference" : "703596",
+      "correspondenceAddressee" : "correspondenceAddressee",
+      "channelAccessPreferenceReference" : "751025",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "channelAccessChannelDeviceTypePreference" : "782053"
+      },
+      "customerReference" : "736272",
+      "correspondenceMediaChannel" : "correspondenceMediaChannel",
+      "correspondenceContent" : "correspondenceContent",
+      "correspondenceType" : "correspondenceType",
+      "correspondenceTemplateRecord" : {},
+      "productServiceType" : "productServiceType"
+    },
+    "correspondenceSourceReference" : "784979"
+  },
+  "outboundUpdateActionTaskReference" : "OUATR715089",
+  "outboundUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

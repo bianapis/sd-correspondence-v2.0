@@ -1,0 +1,12 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionDate" : "09-22-2018",
+    "correspondenceServiceSessionReportType" : "correspondenceServiceSessionReportType",
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics",
+    "correspondenceServiceSessionReport" : {}
+  },
+  "correspondenceOperatingSessionInstanceReference" : "COSIR721138",
+  "correspondenceOperatingSessionInitiateActionReference" : "COSIAR710250",
+  "correspondenceOperatingSessionInitiateActionRecord" : {},
+  "correspondenceOperatingSessionInstanceStatus" : "correspondenceOperatingSessionInstanceStatus"
+}

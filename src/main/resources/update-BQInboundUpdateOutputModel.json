@@ -1,0 +1,21 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "inboundUpdateActionTaskReference" : "IUATR723171",
+  "updateResponseRecord" : {},
+  "inboundUpdateActionTaskRecord" : {},
+  "inboundInstanceRecord" : {
+    "inboundCorrespondenceInstanceReference" : "744917",
+    "inboundCorrespondenceRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "inboundCorrespondenceAddressee" : "inboundCorrespondenceAddressee",
+      "inboundCorrespondenceEmployeeBusinessUnitReference" : "700498",
+      "inboundCorrespondenceCustomerReference" : "701525",
+      "inboundCorrespondenceContent" : "inboundCorrespondenceContent",
+      "inboundCorrespondenceType" : "inboundCorrespondenceType"
+    }
+  }
+}

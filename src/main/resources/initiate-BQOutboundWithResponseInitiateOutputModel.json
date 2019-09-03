@@ -1,0 +1,14 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    },
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "outboundWithResponseInitiateActionReference" : "OWRIAR787431",
+  "outboundWithResponseInstanceReference" : "OWRIR784793",
+  "outboundWithResponseInitiateActionRecord" : {},
+  "outboundWithResponseInstanceStatus" : "outboundWithResponseInstanceStatus"
+}

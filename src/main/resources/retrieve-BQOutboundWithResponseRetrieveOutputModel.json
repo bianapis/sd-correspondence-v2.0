@@ -1,0 +1,46 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "employeeBusinessUnitReference" : "720317",
+      "correspondenceTemplateReference" : "789896",
+      "correspondenceAddressee" : "correspondenceAddressee",
+      "channelAccessPreferenceReference" : "745470",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "channelAccessChannelDeviceTypePreference" : "779272"
+      },
+      "customerReference" : "705268",
+      "correspondenceMediaChannel" : "correspondenceMediaChannel",
+      "correspondenceContent" : "correspondenceContent",
+      "correspondenceType" : "correspondenceType",
+      "correspondenceTemplateRecord" : {},
+      "productServiceType" : "productServiceType"
+    }
+  },
+  "outboundWithResponseInstanceRecord" : {
+    "responseDueDate" : "09-22-2018",
+    "responseCorrespondenceRecord" : {},
+    "responseCorrespondenceReference" : "771385"
+  },
+  "outboundWithResponseRetrieveActionResponse" : "outboundWithResponseRetrieveActionResponse",
+  "outboundWithResponseRetrieveActionTaskRecord" : {},
+  "outboundWithResponseInstanceAnalysis" : {
+    "outboundWithResponseInstanceAnalysisRecord" : {},
+    "outboundWithResponseInstanceAnalysisReport" : {},
+    "outboundWithResponseInstanceAnalysisReportType" : "outboundWithResponseInstanceAnalysisReportType",
+    "outboundWithResponseInstanceAnalysisParameters" : "outboundWithResponseInstanceAnalysisParameters"
+  },
+  "outboundWithResponseInstanceReport" : {
+    "outboundWithResponseInstanceReportType" : "outboundWithResponseInstanceReportType",
+    "outboundWithResponseInstanceReportParameters" : "outboundWithResponseInstanceReportParameters",
+    "outboundWithResponseInstanceReportRecord" : {},
+    "outboundWithResponseInstanceReport" : {}
+  },
+  "outboundWithResponseRetrieveActionTaskReference" : "OWRRATR790679"
+}

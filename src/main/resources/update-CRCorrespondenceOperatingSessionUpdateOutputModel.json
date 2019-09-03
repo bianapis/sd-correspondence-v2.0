@@ -1,0 +1,11 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionDate" : "09-22-2018",
+    "correspondenceServiceSessionReportType" : "correspondenceServiceSessionReportType",
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics",
+    "correspondenceServiceSessionReport" : {}
+  },
+  "updateResponseRecord" : {},
+  "correspondenceOperatingSessionUpdateActionTaskReference" : "COSUATR783571",
+  "correspondenceOperatingSessionUpdateActionTaskRecord" : {}
+}

@@ -1,0 +1,32 @@
+{
+  "blockMailingUpdateActionTaskReference" : "BMUATR707835",
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "employeeBusinessUnitReference" : "743369",
+      "correspondenceTemplateReference" : "742165",
+      "correspondenceAddressee" : "correspondenceAddressee",
+      "channelAccessPreferenceReference" : "773859",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "channelAccessChannelDeviceTypePreference" : "777661"
+      },
+      "customerReference" : "724771",
+      "correspondenceMediaChannel" : "correspondenceMediaChannel",
+      "correspondenceContent" : "correspondenceContent",
+      "correspondenceType" : "correspondenceType",
+      "correspondenceTemplateRecord" : {},
+      "productServiceType" : "productServiceType"
+    }
+  },
+  "blockMailingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "blockMailingInstanceRecord" : {
+    "blockmailingRecord" : {}
+  }
+}

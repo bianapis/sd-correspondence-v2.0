@@ -1,0 +1,16 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "inboundInitiateActionRecord" : {},
+  "inboundInstanceStatus" : "inboundInstanceStatus",
+  "inboundInitiateActionReference" : "IIAR739070",
+  "inboundInstanceReference" : "IIR794515",
+  "inboundInstanceRecord" : {
+    "inboundCorrespondenceRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  }
+}

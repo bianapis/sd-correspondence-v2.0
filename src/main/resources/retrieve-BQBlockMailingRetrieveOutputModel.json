@@ -1,0 +1,44 @@
+{
+  "blockMailingRetrieveActionTaskReference" : "BMRATR790548",
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "blockMailingInstanceReport" : {
+    "blockMailingInstanceReport" : {},
+    "blockMailingInstanceReportType" : "blockMailingInstanceReportType",
+    "blockMailingInstanceReportRecord" : {},
+    "blockMailingInstanceReportParameters" : "blockMailingInstanceReportParameters"
+  },
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "employeeBusinessUnitReference" : "719023",
+      "correspondenceTemplateReference" : "728728",
+      "correspondenceAddressee" : "correspondenceAddressee",
+      "channelAccessPreferenceReference" : "710596",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "channelAccessChannelDeviceTypePreference" : "755985"
+      },
+      "customerReference" : "759123",
+      "correspondenceMediaChannel" : "correspondenceMediaChannel",
+      "correspondenceContent" : "correspondenceContent",
+      "correspondenceType" : "correspondenceType",
+      "correspondenceTemplateRecord" : {},
+      "productServiceType" : "productServiceType"
+    }
+  },
+  "blockMailingRetrieveActionResponse" : "blockMailingRetrieveActionResponse",
+  "blockMailingRetrieveActionTaskRecord" : {},
+  "blockMailingInstanceRecord" : {
+    "blockmailingRecord" : {}
+  },
+  "blockMailingInstanceAnalysis" : {
+    "blockMailingInstanceAnalysisRecord" : {},
+    "blockMailingInstanceAnalysisParameters" : "blockMailingInstanceAnalysisParameters",
+    "blockMailingInstanceAnalysisReport" : {},
+    "blockMailingInstanceAnalysisReportType" : "blockMailingInstanceAnalysisReportType"
+  }
+}

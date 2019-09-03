@@ -1,0 +1,33 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "inboundRetrieveActionTaskReference" : "IRATR782909",
+  "inboundRetrieveActionTaskRecord" : {},
+  "inboundInstanceReport" : {
+    "inboundInstanceReportRecord" : {},
+    "inboundInstanceReport" : {},
+    "inboundInstanceReportType" : "inboundInstanceReportType",
+    "inboundInstanceReportParameters" : "inboundInstanceReportParameters"
+  },
+  "inboundRetrieveActionResponse" : "inboundRetrieveActionResponse",
+  "inboundInstanceAnalysis" : {
+    "inboundInstanceAnalysisReport" : {},
+    "inboundInstanceAnalysisRecord" : {},
+    "inboundInstanceAnalysisParameters" : "inboundInstanceAnalysisParameters",
+    "inboundInstanceAnalysisReportType" : "inboundInstanceAnalysisReportType"
+  },
+  "inboundInstanceRecord" : {
+    "inboundCorrespondenceInstanceReference" : "727145",
+    "inboundCorrespondenceRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "inboundCorrespondenceAddressee" : "inboundCorrespondenceAddressee",
+      "inboundCorrespondenceEmployeeBusinessUnitReference" : "740174",
+      "inboundCorrespondenceCustomerReference" : "764000",
+      "inboundCorrespondenceContent" : "inboundCorrespondenceContent",
+      "inboundCorrespondenceType" : "inboundCorrespondenceType"
+    }
+  }
+}

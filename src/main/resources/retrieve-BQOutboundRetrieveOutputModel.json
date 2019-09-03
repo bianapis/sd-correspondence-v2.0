@@ -1,0 +1,42 @@
+{
+  "outboundInstanceReport" : {
+    "outboundInstanceReport" : {},
+    "outboundInstanceReportParameters" : "outboundInstanceReportParameters",
+    "outboundInstanceReportType" : "outboundInstanceReportType",
+    "outboundInstanceReportRecord" : {}
+  },
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "employeeBusinessUnitReference" : "737355",
+      "correspondenceTemplateReference" : "763476",
+      "correspondenceAddressee" : "correspondenceAddressee",
+      "channelAccessPreferenceReference" : "709518",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "channelAccessChannelDeviceTypePreference" : "770615"
+      },
+      "customerReference" : "732109",
+      "correspondenceMediaChannel" : "correspondenceMediaChannel",
+      "correspondenceContent" : "correspondenceContent",
+      "correspondenceType" : "correspondenceType",
+      "correspondenceTemplateRecord" : {},
+      "productServiceType" : "productServiceType"
+    },
+    "correspondenceSourceReference" : "712062"
+  },
+  "outboundInstanceAnalysis" : {
+    "outboundInstanceAnalysisReport" : {},
+    "outboundInstanceAnalysisReportType" : "outboundInstanceAnalysisReportType",
+    "outboundInstanceAnalysisRecord" : {},
+    "outboundInstanceAnalysisParameters" : "outboundInstanceAnalysisParameters"
+  },
+  "outboundRetrieveActionTaskReference" : "ORATR760335",
+  "outboundRetrieveActionTaskRecord" : {},
+  "outboundRetrieveActionResponse" : "outboundRetrieveActionResponse"
+}

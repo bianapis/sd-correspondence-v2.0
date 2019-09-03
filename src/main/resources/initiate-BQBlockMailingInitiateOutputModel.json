@@ -1,0 +1,19 @@
+{
+  "blockMailingInitiateActionReference" : "BMIAR727911",
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionStatistics" : "correspondenceServiceSessionStatistics"
+  },
+  "blockMailingInitiateActionRecord" : {},
+  "blockMailingInstanceStatus" : "blockMailingInstanceStatus",
+  "outboundInstanceRecord" : {
+    "correspondenceRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  },
+  "blockMailingInstanceReference" : "BMIR771509",
+  "blockMailingInstanceRecord" : {
+    "blockmailingRecord" : {}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "correspondenceOperatingSessionInstanceRecord" : {
+    "correspondenceServiceSessionDate" : "09-22-2018",
+    "correspondenceServiceSessionReport" : {}
+  },
+  "correspondenceOperatingSessionExchangeActionTaskRecord" : {},
+  "correspondenceOperatingSessionExchangeActionResponse" : "correspondenceOperatingSessionExchangeActionResponse",
+  "correspondenceOperatingSessionExchangeActionTaskReference" : "COSEATR746155"
+}
